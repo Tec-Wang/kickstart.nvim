@@ -22,6 +22,7 @@ return {
       },
       view = {
         width = 30,
+        number = true,
       },
       renderer = {
         group_empty = true,
